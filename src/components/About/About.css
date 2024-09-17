@@ -1,0 +1,121 @@
+.a {
+    background-color: #FFF;
+}
+
+.about-us {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #1b6654;
+    padding: 30px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.about-us h1 {
+    color: #ccc8c8;
+
+}
+
+.about-us h2 {
+    margin: 28px 0;
+    font-size: 32px;
+    color: #ccc8c8;
+    ;
+    /* background-color: #242424; */
+}
+
+.about-us h3 {
+    display: flex;
+    justify-content: center;
+    line-height: initial;
+    align-items: center;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #ccc8c8;
+    /* background-color: #242424; */
+
+}
+
+.about-us p {
+    margin-top: 35px;
+    color: #ccc8c8;
+    background-color: inherit;
+    margin: 45px 120px;
+    font-size: 18px;
+}
+
+.about-us ul {
+    /* margin-top: 35px; */
+    margin-bottom: 35px;
+    list-style-type: disc;
+    /* padding-left: 20px; */
+    font-size: 20px;
+
+}
+
+.about-us li {
+    margin-bottom: 5px;
+    color: #333030;
+}
+
+.about-us p.contact-info {
+    margin-top: 30px;
+    color: #000000;
+}
+
+.about-us p.contact-info span {
+    font-weight: bold;
+    color: #000000;
+}
+
+.about-us {
+    transition: all 0.3s ease-in-out;
+}
+
+/* .about-us:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f2f2f2;
+} */
+/* .a{
+    background-color: #000000   ;
+} */
+.b {
+    margin-left: 150px;
+    /* margin-top: 20px; */
+    margin-right: 150px;
+    background-color: #798fbe;
+    /* border-top: 30px; */
+    border-radius: 30px;
+}
+
+.b ul {
+    text-align: left;
+    background-color: rgb(227, 218, 218);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.b li {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    list-style: none;
+
+}
+
+#we {
+    display: block;
+    border-bottom: 1px solid rgb(227, 218, 218);
+    ;
+    padding: 12px;
+}
+
+#cs {
+    color: rgb(31, 28, 28);
+    padding: 10px;
+    font-weight: bolder;
+    /* border-bottom: 2px solid white; */
+}
